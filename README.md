@@ -1,5 +1,5 @@
 # assignment-java
-regular java selenium compiled in maven
+selenium java compiled in maven
 
 ###Requirements
 * [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
